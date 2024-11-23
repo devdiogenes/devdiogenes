@@ -1,5 +1,5 @@
 <h1 align="center">I'm Diógenes</h1>
-<h3 align="center">Web Developer from Brazil</h3>
+<h3 align="center">Laravel/Vue Web Developer from Brazil</h3>
 
 - 👨‍💻 Some of my projects are available at [diogenesdoti.com](diogenesdoti.com)
 
